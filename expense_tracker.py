@@ -1,7 +1,7 @@
 """
 Personal Expense Tracker in Python
 Experiential Learning - Project Assessment-I
-Student: Ayush Nimbarte (CD25005)
+Student: Om Mohan Moundekar (CD25026)
 Guide: Prof. Ashwini Yerlewar
 """
 
